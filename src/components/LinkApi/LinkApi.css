@@ -1,0 +1,15 @@
+.link {
+    text-align: center;
+}
+.link > p:first-child {
+  color: white;
+  font-size: 20px;
+}
+
+
+.link > p:nth-child(2) {
+    color: white;
+    font-size: 25px;
+    text-decoration: underline;
+    cursor: pointer;
+  }

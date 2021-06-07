@@ -1,0 +1,82 @@
+.api-box {
+  background-image: url("./netflix api background.jpg");
+  /* background-attachment: fixed; */
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.api-box-shadow {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #000000ad;
+  flex-direction: column;
+  overflow: auto;
+}
+.api-content {
+  position: relative;
+}
+.api-content > h1 {
+  filter: drop-shadow(2px 4px 6px black);
+  color: white;
+  padding: 0 20px;
+  font-size: 50px;
+  text-align: center;
+}
+
+ .results-content{
+  display: flex;
+  padding: 50px 25px;
+  align-items: center;
+  justify-content: center;
+}
+
+.api-content > p {
+  filter: drop-shadow(2px 4px 6px black);
+  color: white;
+  padding: 0 20px;
+  font-size: 30px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+hr {
+  height: 7px;
+  border: 0;
+  background: #464646;
+}
+
+@media (max-width: 700px) {
+  .api-box {
+    height: 550px !important;
+  }
+
+  .api-content > h1 {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 600px) {
+  .api-content > h1 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 500px) {
+  .api-content > h1 {
+    font-size: 25px;
+  }
+}

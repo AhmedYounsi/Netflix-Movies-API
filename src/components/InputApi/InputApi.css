@@ -1,0 +1,51 @@
+.input-api {
+    text-align: center;
+    padding: 0 20px;
+}
+
+.input-api > input {
+  width: 300px;
+  height: 50px;
+  font-size: 25px;
+  outline: none;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+
+.api-button {
+ transform: translateY(-1px);
+    height: 54px;
+    font-size: 24px;
+    outline: none;
+    padding: 0 20px;
+    cursor: pointer;
+    background: #e50914;
+    border: none;
+    color: white;
+  }
+
+  .api-button:hover{
+    background: #f53841 !important;
+  }
+
+
+  .api-adresse{
+    margin-top: 2px;
+    height: 54px;
+    font-size: 24px;
+    outline: none;
+    padding: 0 20px;
+  
+    background: #3c3c3c;
+    margin-bottom: 15px;
+    border: none;
+    color: white;
+  }
+
+
+  @media (max-width : 510px)
+  {
+   .api-adresse{
+    filter: drop-shadow(2px 4px 6px black);
+   }
+  }
