@@ -8,10 +8,16 @@ This is a consumption-only API — only the HTTP GET method is available on reso
 No authentication is required to access this API, and all resources are fully open and available.
 
 
-```bash
-$ cd api
-$ npm install
-$ cp .env.example .env
+## Resource Lists /movies
+This route Get all movies
 
-$ pip3 install zerorpc
+```bash
+ axios
+      .get(https://api-netflix.herokuapp.com/api/v2/movies)
+      .then(function (result) {
+       console.log(result.data)
+      })
+      .catch(function (error) {
+       console.log(error)
+      });
 ```
