@@ -21,4 +21,12 @@ This route Get all movies data on json format
        console.log(error)
       });
 ```
- 
+# response JSON
+
+| Name | Nesc | Type
+| ------------- | ------------- |
+|  title  | Content Cell  | string
+| genre  | Content Cell  | string
+|  premiere  | Content Cell  | string
+| runtime  | Content Cell  | string
+| language | Content Cell  | string
