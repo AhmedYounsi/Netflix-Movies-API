@@ -48,7 +48,7 @@ This route Get movies by year from 2015 to 2021
       });
 ```
 
-### /movies/year?genre=
+### /movies?genre=
 you can get also movies by genre 
   * Drama
   * Horror
@@ -67,7 +67,7 @@ you can get also movies by genre
       });
 ```
 
-### /movies/year?language=
+### /movies?language=
 you can get also movies by original language 
   * English
   * Korean
