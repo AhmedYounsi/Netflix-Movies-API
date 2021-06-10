@@ -4,17 +4,23 @@
 }
 
 .input-api > input {
-  width: 300px;
-  height: 50px;
+  width: 400px;
+  height: 80px;
   font-size: 25px;
   outline: none;
   padding-left: 10px;
   margin-bottom: 15px;
+  border-radius: 0px;
+  border: none;
+}
+
+.api-button > div > svg {
+  height: 20px;
 }
 
 .api-button {
  transform: translateY(-1px);
-    height: 54px;
+    height: 81px;
     font-size: 24px;
     outline: none;
     padding: 0 20px;
@@ -31,7 +37,7 @@
 
   .api-adresse{
     margin-top: 2px;
-    height: 54px;
+    height: 81px;
     font-size: 24px;
     outline: none;
     padding: 0 20px;
@@ -42,10 +48,32 @@
     color: white;
   }
 
-
+ 
   @media (max-width : 510px)
   {
+    .input-api > input {
+      width: 260px;
+      font-size: 20px !important;
+    }
+    
+   
+  }
+
+  @media (max-width : 700px)
+  {
    .api-adresse{
-    filter: drop-shadow(2px 4px 6px black);
+     height: 50px !important;
+     filter: drop-shadow(2px 4px 6px black);
    }
   }
+
+  @media (max-width : 700px)
+{
+  .api-button {
+    height: 45px !important;
+  }
+  .input-api > input {
+    width: 90% !important;
+    height: 54px !important;
+  }
+}

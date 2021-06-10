@@ -44,8 +44,24 @@ img{
     width: 700px;
     text-align: center;
   }
+.results-text{
+  max-width: 50%;
+}
+
+  .results-text > ul {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: sans-serif;
+  }
 
   @media (max-width : 800px) {
+    .results-text > ul {
+    font-size: 20px !important;
+    }
       .results{
           flex-direction: column;
       }
@@ -53,10 +69,25 @@ img{
         width: 100% !important;
         margin-top: 25px;
       }
+      .results-text{
+        max-width: 100% !important;
+      }
+
+      .results > .results-text >  h2{
+      font-size: 30px !important;
+      }
   }
 
+ 
   @media (min-width : 800px) {
    .results-text{
        margin-top: -50px;
    }
+}
+
+@media (min-width : 1200px) {
+  .results > .results-text >  h2{
+    font-size: 55px !important;
+    padding:0px 100px;
+  }
 }

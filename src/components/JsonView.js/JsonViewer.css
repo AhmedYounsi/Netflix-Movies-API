@@ -1,72 +1,112 @@
 .json-viewer {
-    min-height: 50vh;
-    
+  position: relative;
+  margin-left: 0px;
+  width: 50%;
+  margin: 40px auto;
+  margin-bottom: 75px;
 }
 
 .json-viewer > ul {
-    margin: 0 !important;
-    background-color: rgb(0 0 0) !important;
-    font-size: 20px !important;
-    padding: 20px !important;
-}
-/* Triangle ul */
-.json-viewer > ul > li > div > div {
-    color: red !important;
-}
-.json-viewer > ul > li > label {
-    color: red !important;
-}
-.json-viewer > ul > li >  span{
-    color: rgb(101, 123, 131) !important;
+  margin: 0 !important;
+  background-color: rgb(14 14 14) !important;
+
+  padding: 20px !important;
 }
 
+.json-viewer > ul > li {
+   padding: 0 !important;
+  }
+
+/* Triangle ul */
+.json-viewer > ul > li > div > div {
+  color: red !important;
+}
+.json-viewer > ul > li > label {
+  color: red !important;
+}
+.json-viewer > ul > li > span {
+  color: rgb(101, 123, 131) !important;
+}
 
 /* Triangle li */
 .json-viewer > ul > li > ul > li > div > div {
-    color: red !important;
+  color: red !important;
 }
 
 /**********************/
 
-.json-viewer > ul > li > ul > li > span{
-    color: rgb(101, 123, 131) !important;
+.json-viewer > ul > li > ul > li > span {
+  color: rgb(101, 123, 131) !important;
 }
 
-.json-viewer > ul > li > ul > li >  label {
-    color: red !important;
-    width: 20px;
+.json-viewer > ul > li > ul > li > label {
+  color: red !important;
+  width: 20px;
 }
 
-.json-viewer > ul > li > ul > li >  ul > li >  label {
-    color: rgb(101, 123, 131) !important;
+.json-viewer > ul > li > ul > li > ul > li > label {
+  color: rgb(101, 123, 131) !important;
 }
 
-.json-viewer > ul > li > ul > li >  ul > li >  span {
-    color:white !important;
+.json-viewer > ul > li > ul > li > ul > li > span {
+  color: white !important;
 }
-
-
-
 
 /* DIV INSIDE */
 .json-viewer > ul > li > ul > div > li > div > div {
-    color: red !important;
+  color: red !important;
 }
 
 .json-viewer > ul > li > ul > div > li > label {
-    color: red !important;
-    width: 20px;
+  color: red !important;
+  width: 20px;
 }
 
 .json-viewer > ul > li > ul > div > li > span {
-    color: rgb(101, 123, 131) !important;
+  color: rgb(101, 123, 131) !important;
 }
 
 .json-viewer > ul > li > ul > div > li > ul > li > span {
-    color: white !important;
+  color: white !important;
 }
 
 .json-viewer > ul > li > ul > div > li > ul > li > label {
-    color: rgb(101, 123, 131) !important;
+  color: rgb(101, 123, 131) !important;
 }
 
+@media (min-width: 900px) {
+  .json-viewer > ul {
+    font-size: 25px !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .json-viewer > ul {
+    font-size: 20px !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .json-viewer {
+    width: 70%;
+  }
+}
+@media (max-width: 600px) {
+  .json-viewer {
+    width: 80%;
+  }
+}
+@media (max-width: 500px) {
+  .json-viewer > ul {
+    font-size: 17px !important;
+  }
+  .json-viewer {
+    width: 90% !important;
+  }
+}
+
+@media (max-width: 350px) {
+  .json-viewer > ul {
+    font-size: 15px !important;
+  }
+}

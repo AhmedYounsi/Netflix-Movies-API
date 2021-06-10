@@ -5,7 +5,7 @@ function LinkApi({Link}) {
     return (
         <div className="link">
             <p>Direct link</p>
-            <p> {Link} </p>
+            <a target='true' href={Link}> {Link} </a>
         </div>
     )
 }
