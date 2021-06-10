@@ -11,7 +11,7 @@ No authentication is required to access this API, and all resources are fully op
 ## Resource Lists /movies
 This route Get all movies
 
-```bash
+```javascript
  axios
       .get(https://api-netflix.herokuapp.com/api/v2/movies)
       .then(function (result) {
@@ -21,14 +21,4 @@ This route Get all movies
        console.log(error)
       });
 ```
-<script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
-<script src="editormd/editormd.min.js"></script>
-<script type="text/javascript">
-    $(function() {
-        var editor = editormd("test-editor", {
-            // width  : "100%",
-            // height : "100%",
-            path   : "editormd/lib/"
-        });
-    });
-</script>
+ 
