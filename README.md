@@ -21,3 +21,14 @@ This route Get all movies
        console.log(error)
       });
 ```
+<script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+<script src="editormd/editormd.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        var editor = editormd("test-editor", {
+            // width  : "100%",
+            // height : "100%",
+            path   : "editormd/lib/"
+        });
+    });
+</script>
