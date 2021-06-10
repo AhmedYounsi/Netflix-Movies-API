@@ -8,8 +8,8 @@ This is a consumption-only API — only the HTTP GET method is available on reso
 No authentication is required to access this API, and all resources are fully open and available.
 
 
-## Resource Lists /movies
-This route Get all movies
+## /movies (endpoint)
+This route Get all movies data on json format
 
 ```javascript
  axios
