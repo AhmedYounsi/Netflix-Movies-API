@@ -1,0 +1,506 @@
+[
+        {
+            "Title": "Lionheart",
+            "Genre": "Comedy",
+            "Premiere": "4-Jan-19",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Last Laugh",
+            "Genre": "Comedy-drama",
+            "Premiere": "11-Jan-19",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "IO",
+            "Genre": "Science fiction/Drama",
+            "Premiere": "18-Jan-19",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Soni",
+            "Genre": "Crime drama",
+            "Premiere": "18-Jan-19",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Polar",
+            "Genre": "Action",
+            "Premiere": "25-Jan-19",
+            "Runtime": "1 hour, 58 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Velvet Buzzsaw",
+            "Genre": "Thriller",
+            "Premiere": "1-Feb-19",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "High Flying Bird",
+            "Genre": "Sports-drama",
+            "Premiere": "8-Feb-19",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Firebrand",
+            "Genre": "Drama",
+            "Premiere": "22-Feb-19",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "Marathi"
+        },
+        {
+            "Title": "Paris Is Us",
+            "Genre": "Romance drama",
+            "Premiere": "22-Feb-19",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Paddleton",
+            "Genre": "Drama-Comedy",
+            "Premiere": "22-Feb-19",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Walk. Ride. Rodeo.",
+            "Genre": "Drama",
+            "Premiere": "8-Mar-19",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Juanita",
+            "Genre": "Drama",
+            "Premiere": "8-Mar-19",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Triple Frontier",
+            "Genre": "Action-thriller",
+            "Premiere": "13-Mar-19",
+            "Runtime": "2 hours, 5 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Dirt",
+            "Genre": "Biopic",
+            "Premiere": "22-Mar-19",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Highwaymen",
+            "Genre": "Crime drama",
+            "Premiere": "29-Mar-19",
+            "Runtime": "2 hours, 11 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "15-Aug",
+            "Genre": "Comedy-drama",
+            "Premiere": "29-Mar-19",
+            "Runtime": "2 hours, 4 min.",
+            "Language": "Marathi"
+        },
+        {
+            "Title": "Unicorn Store",
+            "Genre": "Comedy",
+            "Premiere": "5-Apr-19",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Who Would You Take to a Deserted Island?",
+            "Genre": "Drama",
+            "Premiere": "12-Apr-19",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Perfect Date",
+            "Genre": "Romantic comedy",
+            "Premiere": "12-Apr-19",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Someone Great",
+            "Genre": "Romantic comedy",
+            "Premiere": "19-Apr-19",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Music Teacher",
+            "Genre": "Drama",
+            "Premiere": "19-Apr-19",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Despite Everything",
+            "Genre": "Comedy",
+            "Premiere": "3-May-19",
+            "Runtime": "1 hour, 18 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Wine Country",
+            "Genre": "Comedy",
+            "Premiere": "10-May-19",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Good Sam",
+            "Genre": "Drama",
+            "Premiere": "16-May-19",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "See You Yesterday",
+            "Genre": "Science fiction",
+            "Premiere": "17-May-19",
+            "Runtime": "1 hour, 27 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Rim of the World",
+            "Genre": "Science fiction adventure",
+            "Premiere": "24-May-19",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Perfection",
+            "Genre": "Horror-thriller",
+            "Premiere": "24-May-19",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Always Be My Maybe",
+            "Genre": "Romantic comedy",
+            "Premiere": "31-May-19",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Chopsticks",
+            "Genre": "Comedy",
+            "Premiere": "31-May-19",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Elisa & Marcela",
+            "Genre": "Romance",
+            "Premiere": "7-Jun-19",
+            "Runtime": "1 hour, 58 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Murder Mystery",
+            "Genre": "Comedy mystery",
+            "Premiere": "14-Jun-19",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Beats",
+            "Genre": "Drama",
+            "Premiere": "19-Jun-19",
+            "Runtime": "1 hour, 50 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Point Blank",
+            "Genre": "Action",
+            "Premiere": "12-Jul-19",
+            "Runtime": "1 hour, 26 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Secret Obsession",
+            "Genre": "Thriller",
+            "Premiere": "18-Jul-19",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Red Sea Diving Resort",
+            "Genre": "Spy thriller",
+            "Premiere": "31-Jul-19",
+            "Runtime": "2 hours, 10 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Otherhood",
+            "Genre": "Comedy",
+            "Premiere": "2-Aug-19",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Jaoon Kahan Bata Ae Dil",
+            "Genre": "Drama",
+            "Premiere": "9-Aug-19",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Sextuplets",
+            "Genre": "Comedy",
+            "Premiere": "16-Aug-19",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Falling Inn Love",
+            "Genre": "Romantic comedy",
+            "Premiere": "29-Aug-19",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Back to School",
+            "Genre": "Comedy",
+            "Premiere": "30-Aug-19",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Tall Girl",
+            "Genre": "Comedy-drama",
+            "Premiere": "13-Sep-19",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Between Two Ferns: The Movie",
+            "Genre": "Comedy",
+            "Premiere": "20-Sep-19",
+            "Runtime": "1 hour, 22 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "In the Shadow of the Moon",
+            "Genre": "Thriller",
+            "Premiere": "27-Sep-19",
+            "Runtime": "1 hour, 55 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "In the Tall Grass",
+            "Genre": "Horror",
+            "Premiere": "4-Oct-19",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "El Camino: A Breaking Bad Movie",
+            "Genre": "Crime drama",
+            "Premiere": "11-Oct-19",
+            "Runtime": "2 hours, 2 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Fractured",
+            "Genre": "Thriller",
+            "Premiere": "11-Oct-19",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Forest of Love",
+            "Genre": "Drama",
+            "Premiere": "11-Oct-19",
+            "Runtime": "2 hours, 31 min.",
+            "Language": "Japanese"
+        },
+        {
+            "Title": "Street Flow",
+            "Genre": "Drama",
+            "Premiere": "12-Oct-19",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Eli",
+            "Genre": "Horror",
+            "Premiere": "18-Oct-19",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Seventeen",
+            "Genre": "Coming-of-age comedy-drama",
+            "Premiere": "18-Oct-19",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Laundromat",
+            "Genre": "Comedy-drama",
+            "Premiere": "18-Oct-19",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Upstarts",
+            "Genre": "Drama",
+            "Premiere": "18-Oct-19",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Dolemite Is My Name",
+            "Genre": "Biopic",
+            "Premiere": "25-Oct-19",
+            "Runtime": "1 hour, 58 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Rattlesnake",
+            "Genre": "Horror",
+            "Premiere": "25-Oct-19",
+            "Runtime": "1 hour, 25 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The King",
+            "Genre": "Historical drama",
+            "Premiere": "1-Nov-19",
+            "Runtime": "2 hours, 20 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "American Son",
+            "Genre": "Drama",
+            "Premiere": "1-Nov-19",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Drive",
+            "Genre": "Action",
+            "Premiere": "1-Nov-19",
+            "Runtime": "2 hours, 27 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Holiday in the Wild",
+            "Genre": "Adventure-romance",
+            "Premiere": "1-Nov-19",
+            "Runtime": "1 hour, 25 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Let It Snow",
+            "Genre": "Romantic comedy",
+            "Premiere": "8-Nov-19",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Earthquake Bird",
+            "Genre": "Mystery",
+            "Premiere": "15-Nov-19",
+            "Runtime": "1 hour, 47 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "House Arrest",
+            "Genre": "Comedy",
+            "Premiere": "15-Nov-19",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Klaus",
+            "Genre": "Animation/Christmas/Comedy/Adventure",
+            "Premiere": "15-Nov-19",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Knight Before Christmas",
+            "Genre": "Romantic comedy",
+            "Premiere": "21-Nov-19",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Irishman",
+            "Genre": "Crime drama",
+            "Premiere": "27-Nov-19",
+            "Runtime": "3 hours, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Holiday Rush",
+            "Genre": "Family film",
+            "Premiere": "28-Nov-19",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Dead Kids",
+            "Genre": "Thriller",
+            "Premiere": "1-Dec-19",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "Filipino"
+        },
+        {
+            "Title": "A Christmas Prince: The Royal Baby",
+            "Genre": "Romantic comedy",
+            "Premiere": "5-Dec-19",
+            "Runtime": "1 hour, 25 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Marriage Story",
+            "Genre": "Drama",
+            "Premiere": "6-Dec-19",
+            "Runtime": "2 hours, 16 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "6 Underground",
+            "Genre": "Action",
+            "Premiere": "13-Dec-19",
+            "Runtime": "2 hours, 8 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Two Popes",
+            "Genre": "Drama",
+            "Premiere": "20-Dec-19",
+            "Runtime": "2 hours, 5 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Como Caído del Cielo",
+            "Genre": "Musical comedy",
+            "Premiere": "24-Dec-19",
+            "Runtime": "1 hour, 57 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The App",
+            "Genre": "Science fiction/Drama",
+            "Premiere": "26-Dec-19",
+            "Runtime": "1 hour, 19 min.",
+            "Language": "Italian"
+        }
+    ]

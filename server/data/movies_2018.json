@@ -1,0 +1,478 @@
+ [
+        {
+            "Title": "The Polka King",
+            "Genre": "Comedy-drama",
+            "Premiere": "12-Jan-18",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Step Sisters",
+            "Genre": "Comedy",
+            "Premiere": "19-Jan-18",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Open House",
+            "Genre": "Horror thriller",
+            "Premiere": "19-Jan-18",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "A Futile and Stupid Gesture",
+            "Genre": "Biographical/Comedy",
+            "Premiere": "26-Jan-18",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Cloverfield Paradox",
+            "Genre": "Science fiction",
+            "Premiere": "4-Feb-18",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "When We First Met",
+            "Genre": "Romantic comedy",
+            "Premiere": "9-Feb-18",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Love per Square Foot",
+            "Genre": "Romantic comedy",
+            "Premiere": "14-Feb-18",
+            "Runtime": "2 hours, 13 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Irreplaceable You",
+            "Genre": "Drama",
+            "Premiere": "16-Feb-18",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Mute",
+            "Genre": "Science fiction/Mystery",
+            "Premiere": "23-Feb-18",
+            "Runtime": "2 hours, 6 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Outsider",
+            "Genre": "Crime drama",
+            "Premiere": "9-Mar-18",
+            "Runtime": "2 hours",
+            "Language": "English"
+        },
+        {
+            "Title": "Benji",
+            "Genre": "Family film",
+            "Premiere": "16-Mar-18",
+            "Runtime": "1 hour, 27 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Game Over, Man!",
+            "Genre": "Action/Comedy",
+            "Premiere": "23-Mar-18",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Paradox",
+            "Genre": "Musical/Western/Fantasy",
+            "Premiere": "23-Mar-18",
+            "Runtime": "1 hour, 13 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Roxanne Roxanne",
+            "Genre": "Biopic",
+            "Premiere": "23-Mar-18",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Happy Anniversary",
+            "Genre": "Romantic comedy",
+            "Premiere": "30-Mar-18",
+            "Runtime": "1 hour, 18 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "First Match",
+            "Genre": "Sports-drama",
+            "Premiere": "30-Mar-18",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "6 Balloons",
+            "Genre": "Drama",
+            "Premiere": "6-Apr-18",
+            "Runtime": "1 hour, 15 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Amateur",
+            "Genre": "Sports-drama",
+            "Premiere": "6-Apr-18",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Come Sunday",
+            "Genre": "Biopic",
+            "Premiere": "13-Apr-18",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "I Am Not an Easy Man",
+            "Genre": "Romantic comedy",
+            "Premiere": "13-Apr-18",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Dude",
+            "Genre": "Teen comedy-drama",
+            "Premiere": "20-Apr-18",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Candy Jar",
+            "Genre": "Comedy",
+            "Premiere": "27-Apr-18",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Week Of",
+            "Genre": "Comedy",
+            "Premiere": "27-Apr-18",
+            "Runtime": "1 hour, 56 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Sometimes",
+            "Genre": "Drama",
+            "Premiere": "1-May-18",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "Tamil"
+        },
+        {
+            "Title": "Forgive Us Our Debts",
+            "Genre": "Drama",
+            "Premiere": "4-May-18",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "The Kissing Booth",
+            "Genre": "Romantic comedy",
+            "Premiere": "11-May-18",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Cargo",
+            "Genre": "Drama/Horror",
+            "Premiere": "18-May-18",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Ibiza",
+            "Genre": "Comedy",
+            "Premiere": "25-May-18",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Alex Strangelove",
+            "Genre": "Romantic comedy",
+            "Premiere": "8-Jun-18",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Set It Up",
+            "Genre": "Romantic comedy",
+            "Premiere": "15-Jun-18",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Lust Stories",
+            "Genre": "Drama",
+            "Premiere": "15-Jun-18",
+            "Runtime": "2 hours",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "To Each, Her Own",
+            "Genre": "Romantic comedy",
+            "Premiere": "24-Jun-18",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Calibre",
+            "Genre": "Thriller",
+            "Premiere": "29-Jun-18",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "TAU",
+            "Genre": "Science fiction/Thriller",
+            "Premiere": "29-Jun-18",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Legacy of a Whitetail Deer Hunter",
+            "Genre": "Adventure/Comedy",
+            "Premiere": "6-Jul-18",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "How It Ends",
+            "Genre": "Action-thriller",
+            "Premiere": "13-Jul-18",
+            "Runtime": "1 hour, 53 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Father of the Year",
+            "Genre": "Comedy",
+            "Premiere": "20-Jul-18",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Extinction",
+            "Genre": "Science fiction/Thriller",
+            "Premiere": "27-Jul-18",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Brij Mohan Amar Rahe",
+            "Genre": "Comedy",
+            "Premiere": "3-Aug-18",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Like Father",
+            "Genre": "Comedy",
+            "Premiere": "3-Aug-18",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Package",
+            "Genre": "Black comedy",
+            "Premiere": "10-Aug-18",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "To All the Boys I've Loved Before",
+            "Genre": "Romantic comedy",
+            "Premiere": "17-Aug-18",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The After Party",
+            "Genre": "Comedy",
+            "Premiere": "24-Aug-18",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Sierra Burgess Is a Loser",
+            "Genre": "Romantic comedy-drama",
+            "Premiere": "7-Sep-18",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Most Assassinated Woman in the World",
+            "Genre": "Thriller",
+            "Premiere": "7-Sep-18",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "On My Skin",
+            "Genre": "Crime drama",
+            "Premiere": "12-Sep-18",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "The Land of Steady Habits",
+            "Genre": "Drama",
+            "Premiere": "14-Sep-18",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Angel",
+            "Genre": "Spy thriller",
+            "Premiere": "14-Sep-18",
+            "Runtime": "1 hour, 54 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Nappily Ever After",
+            "Genre": "Comedy-drama",
+            "Premiere": "21-Sep-18",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Hold the Dark",
+            "Genre": "Thriller",
+            "Premiere": "28-Sep-18",
+            "Runtime": "2 hours, 5 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Private Life",
+            "Genre": "Drama",
+            "Premiere": "5-Oct-18",
+            "Runtime": "2 hours, 4 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "22-Jul",
+            "Genre": "Drama",
+            "Premiere": "10-Oct-18",
+            "Runtime": "2 hours, 24 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Apostle",
+            "Genre": "Horror-thriller",
+            "Premiere": "12-Oct-18",
+            "Runtime": "2 hours, 9 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Night Comes for Us",
+            "Genre": "Action-thriller",
+            "Premiere": "19-Oct-18",
+            "Runtime": "2 hours, 1 min.",
+            "Language": "Indonesian"
+        },
+        {
+            "Title": "Been So Long",
+            "Genre": "Musical",
+            "Premiere": "26-Oct-18",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Holiday Calendar",
+            "Genre": "Romantic comedy",
+            "Premiere": "2-Nov-18",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Other Side of the Wind",
+            "Genre": "Drama",
+            "Premiere": "2-Nov-18",
+            "Runtime": "2 hours, 2 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Outlaw King",
+            "Genre": "Historical-epic",
+            "Premiere": "9-Nov-18",
+            "Runtime": "2 hours, 1 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Princess Switch",
+            "Genre": "Romantic comedy",
+            "Premiere": "16-Nov-18",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Cam",
+            "Genre": "Psychological horror",
+            "Premiere": "16-Nov-18",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Ballad of Buster Scruggs",
+            "Genre": "Western",
+            "Premiere": "16-Nov-18",
+            "Runtime": "2 hours, 12 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Christmas Chronicles",
+            "Genre": "Christmas/Fantasy/Adventure/Comedy",
+            "Premiere": "22-Nov-18",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "A Christmas Prince: The Royal Wedding",
+            "Genre": "Romantic comedy",
+            "Premiere": "30-Nov-18",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Rajma Chawal",
+            "Genre": "Comedy-drama",
+            "Premiere": "30-Nov-18",
+            "Runtime": "1 hour, 58 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "5 Star Christmas",
+            "Genre": "Comedy",
+            "Premiere": "7-Dec-18",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "Mowgli: Legend of the Jungle",
+            "Genre": "Adventure",
+            "Premiere": "7-Dec-18",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Roma",
+            "Genre": "Drama",
+            "Premiere": "14-Dec-18",
+            "Runtime": "2 hours, 15 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Bird Box",
+            "Genre": "Psychological thriller",
+            "Premiere": "21-Dec-18",
+            "Runtime": "2 hours, 4 min.",
+            "Language": "English"
+        }
+    ]

@@ -3,16 +3,27 @@ const app = express();
 const fs = require("fs");
 const path = require("path");
 const cors = require("cors");
-const PORT = process.env.PORT || 5000;
 
 var routes = require("./routes/route");
 app.use(cors());
-app.use("/api", routes);
+app.use("/api/v2", routes);
 
-app.get("/",(req,res)=>{
-    res.send('APP')
-})
+// INIT PORT
+const PORT = process.env.PORT || 5000;
 
-app.listen(PORT ,()=>{
-    console.log(`Server is running on Port ${PORT}`)
-})
+app.use(express.static(__dirname + "/build/"));
+
+// handle production
+if (process.env.NODE_ENV === "production") {
+  app.get(/.*/, (req, res) => {
+    res.sendFile(__dirname + "/build/index.html");
+  });
+} else {
+  app.get(/.*/, (req, res) => {
+    res.sendFile(__dirname + "/build/index.html");
+  });
+}
+
+app.listen(PORT, () => {
+  console.log(`server is running on port ${PORT}`);
+});

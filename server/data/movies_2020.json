@@ -1,0 +1,878 @@
+  [
+        {
+            "Title": "Ghost Stories",
+            "Genre": "Horror anthology",
+            "Premiere": "1-Jan-20",
+            "Runtime": "2 hours, 24 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "A Fall from Grace",
+            "Genre": "Thriller",
+            "Premiere": "17-Jan-20",
+            "Runtime": "2 hours",
+            "Language": "English"
+        },
+        {
+            "Title": "Airplane Mode",
+            "Genre": "Comedy",
+            "Premiere": "23-Jan-20",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "Portuguese"
+        },
+        {
+            "Title": "Horse Girl",
+            "Genre": "Drama",
+            "Premiere": "7-Feb-20",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "To All the Boys: P.S. I Still Love You",
+            "Genre": "Romantic comedy",
+            "Premiere": "12-Feb-20",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Isi & Ossi",
+            "Genre": "Romantic comedy",
+            "Premiere": "14-Feb-20",
+            "Runtime": "1 hour, 53 min.",
+            "Language": "German"
+        },
+        {
+            "Title": "The Last Thing He Wanted",
+            "Genre": "Political thriller",
+            "Premiere": "21-Feb-20",
+            "Runtime": "1 hour, 55 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Yeh Ballet",
+            "Genre": "Drama",
+            "Premiere": "21-Feb-20",
+            "Runtime": "1 hour, 57 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "All the Bright Places",
+            "Genre": "Romance",
+            "Premiere": "28-Feb-20",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Guilty",
+            "Genre": "Thriller",
+            "Premiere": "6-Mar-20",
+            "Runtime": "1 hour, 59 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Spenser Confidential",
+            "Genre": "Action comedy",
+            "Premiere": "6-Mar-20",
+            "Runtime": "1 hour, 51 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Lost Girls",
+            "Genre": "Crime drama",
+            "Premiere": "13-Mar-20",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Altered Carbon: Resleeved",
+            "Genre": "Anime/Science fiction",
+            "Premiere": "19-Mar-20",
+            "Runtime": "1 hour, 14 min.",
+            "Language": "Japanese"
+        },
+        {
+            "Title": "Ultras",
+            "Genre": "Sports film",
+            "Premiere": "20-Mar-20",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "The Occupant",
+            "Genre": "Thriller",
+            "Premiere": "25-Mar-20",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Maska",
+            "Genre": "Romantic comedy",
+            "Premiere": "27-Mar-20",
+            "Runtime": "1 hour, 51 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "The Decline",
+            "Genre": "Thriller",
+            "Premiere": "27-Mar-20",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Uncorked",
+            "Genre": "Drama",
+            "Premiere": "27-Mar-20",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Coffee & Kareem",
+            "Genre": "Action comedy",
+            "Premiere": "3-Apr-20",
+            "Runtime": "1 hour, 28 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Main Event",
+            "Genre": "Comedy",
+            "Premiere": "10-Apr-20",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Love Wedding Repeat",
+            "Genre": "Romantic comedy",
+            "Premiere": "10-Apr-20",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Tigertail",
+            "Genre": "Drama",
+            "Premiere": "10-Apr-20",
+            "Runtime": "1 hour, 31 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Earth and Blood",
+            "Genre": "Action",
+            "Premiere": "17-Apr-20",
+            "Runtime": "1 hour, 20 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "Rising High",
+            "Genre": "Satire",
+            "Premiere": "17-Apr-20",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "German"
+        },
+        {
+            "Title": "Sergio",
+            "Genre": "Biopic",
+            "Premiere": "17-Apr-20",
+            "Runtime": "1 hour, 58 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Willoughbys",
+            "Genre": "Animation/Comedy/Adventure",
+            "Premiere": "22-Apr-20",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Time to Hunt",
+            "Genre": "Thriller",
+            "Premiere": "23-Apr-20",
+            "Runtime": "2 hours, 14 min.",
+            "Language": "Korean"
+        },
+        {
+            "Title": "Extraction",
+            "Genre": "Action",
+            "Premiere": "24-Apr-20",
+            "Runtime": "1 hour, 57 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Dangerous Lies",
+            "Genre": "Thriller",
+            "Premiere": "30-Apr-20",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Rich in Love",
+            "Genre": "Romantic comedy",
+            "Premiere": "30-Apr-20",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "Portuguese"
+        },
+        {
+            "Title": "All Day and a Night",
+            "Genre": "Drama",
+            "Premiere": "1-May-20",
+            "Runtime": "2 hours, 1 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Mrs. Serial Killer",
+            "Genre": "Thriller",
+            "Premiere": "1-May-20",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "The Half of It",
+            "Genre": "Romance",
+            "Premiere": "1-May-20",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Wrong Missy",
+            "Genre": "Comedy",
+            "Premiere": "13-May-20",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Lovebirds",
+            "Genre": "Romantic comedy",
+            "Premiere": "22-May-20",
+            "Runtime": "1 hour, 27 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "I'm No Longer Here",
+            "Genre": "Drama",
+            "Premiere": "27-May-20",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Intuition",
+            "Genre": "Thriller",
+            "Premiere": "28-May-20",
+            "Runtime": "1 hour, 56 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Choked: Paisa Bolta Hai",
+            "Genre": "Drama",
+            "Premiere": "5-Jun-20",
+            "Runtime": "1 hour, 54 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "The Last Days of American Crime",
+            "Genre": "Heist film/Thriller",
+            "Premiere": "5-Jun-20",
+            "Runtime": "2 hours, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Da 5 Bloods",
+            "Genre": "War drama",
+            "Premiere": "12-Jun-20",
+            "Runtime": "2 hours, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "A Whisker Away",
+            "Genre": "Anime/Fantasy",
+            "Premiere": "18-Jun-20",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "Japanese"
+        },
+        {
+            "Title": "Feel the Beat",
+            "Genre": "Family/Comedy-drama",
+            "Premiere": "19-Jun-20",
+            "Runtime": "1 hour, 47 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Lost Bullet",
+            "Genre": "Thriller",
+            "Premiere": "19-Jun-20",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "One-Way to Tomorrow",
+            "Genre": "Romance",
+            "Premiere": "19-Jun-20",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "Turkish"
+        },
+        {
+            "Title": "Bulbbul",
+            "Genre": "Horror",
+            "Premiere": "24-Jun-20",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Nobody Knows I'm Here",
+            "Genre": "Drama",
+            "Premiere": "24-Jun-20",
+            "Runtime": "1 hour, 31 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Eurovision Song Contest: The Story of Fire Saga",
+            "Genre": "Musical comedy",
+            "Premiere": "26-Jun-20",
+            "Runtime": "2 hours, 3 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Under the Riccione Sun",
+            "Genre": "Romantic teenage drama",
+            "Premiere": "1-Jul-20",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "Desperados",
+            "Genre": "Romantic comedy",
+            "Premiere": "3-Jul-20",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Old Guard",
+            "Genre": "Superhero/Action",
+            "Premiere": "10-Jul-20",
+            "Runtime": "2 hours, 4 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Players",
+            "Genre": "Comedy",
+            "Premiere": "15-Jul-20",
+            "Runtime": "1 hour, 28 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "Fatal Affair",
+            "Genre": "Thriller",
+            "Premiere": "16-Jul-20",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Larva Island Movie",
+            "Genre": "Animation",
+            "Premiere": "23-Jul-20",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Offering to the Storm",
+            "Genre": "Thriller",
+            "Premiere": "24-Jul-20",
+            "Runtime": "2 hours, 19 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Kissing Booth 2",
+            "Genre": "Romantic comedy",
+            "Premiere": "24-Jul-20",
+            "Runtime": "2 hours, 11 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Seriously Single",
+            "Genre": "Comedy",
+            "Premiere": "31-Jul-20",
+            "Runtime": "1 hour, 47 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Raat Akeli Hai",
+            "Genre": "Thriller",
+            "Premiere": "31-Jul-20",
+            "Runtime": "2 hours, 29 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Work It",
+            "Genre": "Dance comedy",
+            "Premiere": "7-Aug-20",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Gunjan Saxena: The Kargil Girl",
+            "Genre": "Drama",
+            "Premiere": "12-Aug-20",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Project Power",
+            "Genre": "Superhero",
+            "Premiere": "14-Aug-20",
+            "Runtime": "1 hour, 53 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Fearless",
+            "Genre": "Animation/Superhero",
+            "Premiere": "14-Aug-20",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Crazy Awesome Teachers[a]",
+            "Genre": "Comedy-drama",
+            "Premiere": "17-Aug-20",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "Indonesian"
+        },
+        {
+            "Title": "The Crimes That Bind",
+            "Genre": "Crime drama",
+            "Premiere": "20-Aug-20",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Sleepover",
+            "Genre": "Comedy",
+            "Premiere": "21-Aug-20",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Class of '83",
+            "Genre": "Drama",
+            "Premiere": "21-Aug-20",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Dark Forces",
+            "Genre": "Thriller",
+            "Premiere": "21-Aug-20",
+            "Runtime": "1 hour, 21 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "All Together Now",
+            "Genre": "Drama",
+            "Premiere": "28-Aug-20",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Unknown Origins",
+            "Genre": "Thriller",
+            "Premiere": "28-Aug-20",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Freaks: You're One of Us",
+            "Genre": "Supernatural drama",
+            "Premiere": "2-Sep-20",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "German"
+        },
+        {
+            "Title": "Love, Guaranteed",
+            "Genre": "Romantic comedy",
+            "Premiere": "3-Sep-20",
+            "Runtime": "1 hour, 31 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "I'm Thinking of Ending Things",
+            "Genre": "Psychological thriller",
+            "Premiere": "4-Sep-20",
+            "Runtime": "2 hours, 14 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Babysitter: Killer Queen",
+            "Genre": "Comedy/Horror",
+            "Premiere": "10-Sep-20",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Dad Wanted",
+            "Genre": "Family",
+            "Premiere": "11-Sep-20",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Devil All the Time",
+            "Genre": "Psychological thriller",
+            "Premiere": "16-Sep-20",
+            "Runtime": "2 hours, 18 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Paramedic",
+            "Genre": "Thriller",
+            "Premiere": "16-Sep-20",
+            "Runtime": "1 hours, 34 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Dolly Kitty Aur Woh Chamakte Sitare",
+            "Genre": "Drama",
+            "Premiere": "18-Sep-20",
+            "Runtime": "2 hours",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Whipped[a]",
+            "Genre": "Romantic comedy",
+            "Premiere": "18-Sep-20",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "Indonesian"
+        },
+        {
+            "Title": "The Boys in the Band",
+            "Genre": "Drama",
+            "Premiere": "30-Sep-20",
+            "Runtime": "2 hours, 1 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "All Because of You[a]",
+            "Genre": "Action comedy",
+            "Premiere": "1-Oct-20",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "Malay"
+        },
+        {
+            "Title": "Òlòtūré",
+            "Genre": "Crime drama",
+            "Premiere": "2-Oct-20",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Serious Men",
+            "Genre": "Drama",
+            "Premiere": "2-Oct-20",
+            "Runtime": "1 hour, 54 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "The Binding",
+            "Genre": "Drama",
+            "Premiere": "2-Oct-20",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "Vampires vs. the Bronx",
+            "Genre": "Horror comedy",
+            "Premiere": "2-Oct-20",
+            "Runtime": "1 hour, 26 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "You've Got This",
+            "Genre": "Romantic comedy",
+            "Premiere": "2-Oct-20",
+            "Runtime": "1 hour, 51 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Hubie Halloween",
+            "Genre": "Comedy",
+            "Premiere": "7-Oct-20",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Ginny Weds Sunny",
+            "Genre": "Romantic comedy",
+            "Premiere": "9-Oct-20",
+            "Runtime": "2 hours, 5 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "The 40-Year-Old Version",
+            "Genre": "Comedy",
+            "Premiere": "9-Oct-20",
+            "Runtime": "2 hours, 4 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "A Babysitter's Guide to Monster Hunting",
+            "Genre": "Comedy/Fantasy/Family",
+            "Premiere": "15-Oct-20",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Love Like the Falling Rain[a]",
+            "Genre": "Drama",
+            "Premiere": "15-Oct-20",
+            "Runtime": "1 hour, 26 min.",
+            "Language": "Indonesian"
+        },
+        {
+            "Title": "The Trial of the Chicago 7",
+            "Genre": "Drama",
+            "Premiere": "16-Oct-20",
+            "Runtime": "2 hours, 10 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Rebecca",
+            "Genre": "Romantic thriller",
+            "Premiere": "21-Oct-20",
+            "Runtime": "2 hours, 3 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Cadaver",
+            "Genre": "Horror",
+            "Premiere": "22-Oct-20",
+            "Runtime": "1 hour, 26 min.",
+            "Language": "Norwegian"
+        },
+        {
+            "Title": "Over the Moon",
+            "Genre": "Animation/Musical/Adventure",
+            "Premiere": "23-Oct-20",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Holidate",
+            "Genre": "Romantic comedy/Christmas",
+            "Premiere": "28-Oct-20",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Nobody Sleeps in the Woods Tonight",
+            "Genre": "Horror",
+            "Premiere": "28-Oct-20",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "Polish"
+        },
+        {
+            "Title": "His House",
+            "Genre": "Thriller",
+            "Premiere": "30-Oct-20",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Kaali Khuhi",
+            "Genre": "Mystery",
+            "Premiere": "30-Oct-20",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Rogue City",
+            "Genre": "Crime drama",
+            "Premiere": "30-Oct-20",
+            "Runtime": "1 hour, 56 min.",
+            "Language": "French"
+        },
+        {
+            "Title": "The Day of the Lord",
+            "Genre": "Drama",
+            "Premiere": "30-Oct-20",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "Operation Christmas Drop",
+            "Genre": "Romantic comedy",
+            "Premiere": "5-Nov-20",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Citation",
+            "Genre": "Drama",
+            "Premiere": "6-Nov-20",
+            "Runtime": "2 hours, 31 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "What We Wanted",
+            "Genre": "Drama",
+            "Premiere": "11-Nov-20",
+            "Runtime": "1 hour, 33 min.",
+            "Language": "German"
+        },
+        {
+            "Title": "Ludo",
+            "Genre": "Anthology/Dark comedy",
+            "Premiere": "12-Nov-20",
+            "Runtime": "2 hours, 29 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "Jingle Jangle: A Christmas Journey",
+            "Genre": "Family/Christmas musical",
+            "Premiere": "13-Nov-20",
+            "Runtime": "1 hour, 59 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Life Ahead",
+            "Genre": "Drama",
+            "Premiere": "13-Nov-20",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "The Princess Switch: Switched Again",
+            "Genre": "Romantic comedy",
+            "Premiere": "19-Nov-20",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Dolly Parton's Christmas on the Square",
+            "Genre": "Christmas musical",
+            "Premiere": "22-Nov-20",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Hillbilly Elegy",
+            "Genre": "Drama",
+            "Premiere": "24-Nov-20",
+            "Runtime": "1 hour, 57 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Notes for My Son",
+            "Genre": "Drama",
+            "Premiere": "24-Nov-20",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Christmas Chronicles: Part Two",
+            "Genre": "Christmas comedy",
+            "Premiere": "25-Nov-20",
+            "Runtime": "1 hour, 55 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Beast",
+            "Genre": "Drama",
+            "Premiere": "27-Nov-20",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "The Call",
+            "Genre": "Drama",
+            "Premiere": "27-Nov-20",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "Korean"
+        },
+        {
+            "Title": "Finding Agnes[a]",
+            "Genre": "Drama",
+            "Premiere": "30-Nov-20",
+            "Runtime": "1 hour, 45 min.",
+            "Language": "Filipino"
+        },
+        {
+            "Title": "Just Another Christmas",
+            "Genre": "Comedy",
+            "Premiere": "3-Dec-20",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "Portuguese"
+        },
+        {
+            "Title": "Christmas Crossfire",
+            "Genre": "Thriller",
+            "Premiere": "4-Dec-20",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "German"
+        },
+        {
+            "Title": "Leyla Everlasting",
+            "Genre": "Comedy",
+            "Premiere": "4-Dec-20",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "Turkish"
+        },
+        {
+            "Title": "Mank",
+            "Genre": "Biopic",
+            "Premiere": "4-Dec-20",
+            "Runtime": "2 hours, 12 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Claus Family[a]",
+            "Genre": "Fantasy",
+            "Premiere": "7-Dec-20",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "Dutch"
+        },
+        {
+            "Title": "Rose Island",
+            "Genre": "Comedy",
+            "Premiere": "9-Dec-20",
+            "Runtime": "1 hour, 57 min.",
+            "Language": "Italian"
+        },
+        {
+            "Title": "The Prom",
+            "Genre": "Musical",
+            "Premiere": "11-Dec-20",
+            "Runtime": "2 hours, 12 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "A California Christmas",
+            "Genre": "Romantic comedy",
+            "Premiere": "14-Dec-20",
+            "Runtime": "1 hour, 47 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Ma Rainey's Black Bottom",
+            "Genre": "Drama",
+            "Premiere": "18-Dec-20",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Midnight Sky",
+            "Genre": "Science fiction",
+            "Premiere": "23-Dec-20",
+            "Runtime": "1 hour, 58 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "AK vs AK",
+            "Genre": "Thriller",
+            "Premiere": "24-Dec-20",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "Hindi"
+        },
+        {
+            "Title": "We Can Be Heroes",
+            "Genre": "Superhero",
+            "Premiere": "25-Dec-20",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        }
+    ]
+ 

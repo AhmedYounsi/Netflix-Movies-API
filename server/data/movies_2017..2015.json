@@ -1,0 +1,416 @@
+  [
+        {
+            "Title": "Beasts of No Nation",
+            "Genre": "War drama",
+            "Premiere": "16-Oct-15",
+            "Runtime": "2 hours, 17 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Ridiculous 6",
+            "Genre": "Western",
+            "Premiere": "11-Dec-15",
+            "Runtime": "2 hours",
+            "Language": "English"
+        },
+        {
+            "Title": "Pee-wee's Big Holiday",
+            "Genre": "Adventure",
+            "Premiere": "18-Mar-16",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Special Correspondents",
+            "Genre": "Satire",
+            "Premiere": "29-Apr-16",
+            "Runtime": "1 hour, 41 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Do-Over",
+            "Genre": "Action comedy",
+            "Premiere": "27-May-16",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Fundamentals of Caring",
+            "Genre": "Comedy-drama",
+            "Premiere": "24-Jun-16",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Brahman Naman",
+            "Genre": "Comedy",
+            "Premiere": "7-Jul-16",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Rebirth",
+            "Genre": "Thriller",
+            "Premiere": "15-Jul-16",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Tallulah",
+            "Genre": "Comedy-drama",
+            "Premiere": "29-Jul-16",
+            "Runtime": "1 hour, 51 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "XOXO",
+            "Genre": "Drama",
+            "Premiere": "26-Aug-16",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "ARQ",
+            "Genre": "Science fiction/Thriller",
+            "Premiere": "16-Sep-16",
+            "Runtime": "1 hour, 28 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Siege of Jadotville",
+            "Genre": "War",
+            "Premiere": "7-Oct-16",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Mascots",
+            "Genre": "Mockumentary",
+            "Premiere": "13-Oct-16",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "I Am the Pretty Thing That Lives in the House",
+            "Genre": "Horror",
+            "Premiere": "28-Oct-16",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "7 años",
+            "Genre": "Drama",
+            "Premiere": "28-Oct-16",
+            "Runtime": "1 hour, 17 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "True Memoirs of an International Assassin",
+            "Genre": "Action comedy",
+            "Premiere": "11-Nov-16",
+            "Runtime": "1 hour, 38 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Mercy",
+            "Genre": "Thriller",
+            "Premiere": "22-Nov-16",
+            "Runtime": "1 hour, 27 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Spectral",
+            "Genre": "Science fiction/Action",
+            "Premiere": "9-Dec-16",
+            "Runtime": "1 hour, 48 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Barry",
+            "Genre": "Biopic",
+            "Premiere": "16-Dec-16",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Coin Heist",
+            "Genre": "Heist",
+            "Premiere": "6-Jan-17",
+            "Runtime": "1 hour, 37 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Clinical",
+            "Genre": "Thriller",
+            "Premiere": "13-Jan-17",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Take the 10",
+            "Genre": "Comedy",
+            "Premiere": "20-Jan-17",
+            "Runtime": "1 hour, 20 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "iBOY",
+            "Genre": "Science fiction/Thriller",
+            "Premiere": "27-Jan-17",
+            "Runtime": "1 hour, 30 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Imperial Dreams",
+            "Genre": "Drama",
+            "Premiere": "3-Feb-17",
+            "Runtime": "1 hour, 26 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Girlfriend's Day",
+            "Genre": "Comedy",
+            "Premiere": "14-Feb-17",
+            "Runtime": "1 hour, 10 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "I Don't Feel at Home in This World Anymore",
+            "Genre": "Drama",
+            "Premiere": "24-Feb-17",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Burning Sands",
+            "Genre": "Drama",
+            "Premiere": "10-Mar-17",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Deidra & Laney Rob a Train",
+            "Genre": "Drama",
+            "Premiere": "17-Mar-17",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Most Hated Woman in America",
+            "Genre": "Biopic",
+            "Premiere": "24-Mar-17",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Discovery",
+            "Genre": "Science fiction/Drama",
+            "Premiere": "31-Mar-17",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Win It All",
+            "Genre": "Comedy",
+            "Premiere": "7-Apr-17",
+            "Runtime": "1 hour, 28 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Sandy Wexler",
+            "Genre": "Comedy",
+            "Premiere": "14-Apr-17",
+            "Runtime": "2 hours, 11 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Sand Castle",
+            "Genre": "War",
+            "Premiere": "21-Apr-17",
+            "Runtime": "1 hour, 53 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Tramps",
+            "Genre": "Romance",
+            "Premiere": "21-Apr-17",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Small Crimes",
+            "Genre": "Dark comedy",
+            "Premiere": "28-Apr-17",
+            "Runtime": "1 hour, 35 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Handsome: A Netflix Mystery Movie",
+            "Genre": "Comedy",
+            "Premiere": "5-May-17",
+            "Runtime": "1 hour, 21 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "BLAME!",
+            "Genre": "Anime/Science fiction",
+            "Premiere": "20-May-17",
+            "Runtime": "1 hour, 46 min.",
+            "Language": "Japanese"
+        },
+        {
+            "Title": "War Machine",
+            "Genre": "War-Comedy",
+            "Premiere": "26-May-17",
+            "Runtime": "2 hours, 2 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Shimmer Lake",
+            "Genre": "Crime thriller",
+            "Premiere": "9-Jun-17",
+            "Runtime": "1 hour, 26 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Okja",
+            "Genre": "Action-adventure",
+            "Premiere": "28-Jun-17",
+            "Runtime": "2 hours, 1 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "To the Bone",
+            "Genre": "Drama",
+            "Premiere": "14-Jul-17",
+            "Runtime": "1 hour, 47 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Incredible Jessica James",
+            "Genre": "Comedy",
+            "Premiere": "28-Jul-17",
+            "Runtime": "1 hour, 23 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Naked",
+            "Genre": "Comedy",
+            "Premiere": "11-Aug-17",
+            "Runtime": "1 hour, 36 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Death Note",
+            "Genre": "Horror thriller",
+            "Premiere": "25-Aug-17",
+            "Runtime": "1 hour, 40 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Little Evil",
+            "Genre": "Comedy horror",
+            "Premiere": "1-Sep-17",
+            "Runtime": "1 hour, 34 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "#realityhigh",
+            "Genre": "Comedy",
+            "Premiere": "8-Sep-17",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "First They Killed My Father",
+            "Genre": "Drama",
+            "Premiere": "15-Sep-17",
+            "Runtime": "2 hours, 16 min.",
+            "Language": "Khmer"
+        },
+        {
+            "Title": "Gerald's Game",
+            "Genre": "Horror thriller",
+            "Premiere": "29-Sep-17",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Our Souls at Night",
+            "Genre": "Romance",
+            "Premiere": "29-Sep-17",
+            "Runtime": "1 hour, 43 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Bomb Scared",
+            "Genre": "Black comedy",
+            "Premiere": "12-Oct-17",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "Spanish"
+        },
+        {
+            "Title": "The Babysitter",
+            "Genre": "Teen comedy horror",
+            "Premiere": "13-Oct-17",
+            "Runtime": "1 hour, 25 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Meyerowitz Stories (New and Selected)",
+            "Genre": "Comedy-drama",
+            "Premiere": "13-Oct-17",
+            "Runtime": "1 hour, 52 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "1922",
+            "Genre": "Horror/Crime drama",
+            "Premiere": "20-Oct-17",
+            "Runtime": "1 hour, 42 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Wheelman",
+            "Genre": "Action thriller",
+            "Premiere": "20-Oct-17",
+            "Runtime": "1 hour, 22 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "The Killer",
+            "Genre": "Western",
+            "Premiere": "10-Nov-17",
+            "Runtime": "1 hour, 39 min.",
+            "Language": "Portuguese"
+        },
+        {
+            "Title": "A Christmas Prince",
+            "Genre": "Romantic comedy",
+            "Premiere": "17-Nov-17",
+            "Runtime": "1 hour, 32 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "El Camino Christmas",
+            "Genre": "Dark comedy",
+            "Premiere": "8-Dec-17",
+            "Runtime": "1 hour, 29 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Christmas Inheritance",
+            "Genre": "Romantic drama",
+            "Premiere": "15-Dec-17",
+            "Runtime": "1 hour, 44 min.",
+            "Language": "English"
+        },
+        {
+            "Title": "Bright",
+            "Genre": "Urban fantasy",
+            "Premiere": "22-Dec-17",
+            "Runtime": "1 hour, 57 min.",
+            "Language": "English"
+        }
+    ]
+ 
