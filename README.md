@@ -23,10 +23,7 @@ This route Get all movies data on json format
 ```
 # response JSON
 
-| Name | Nesc | Type
-| ------------- | ------------- |
-|  title  | Content Cell  | string
-| genre  | Content Cell  | string
-|  premiere  | Content Cell  | string
-| runtime  | Content Cell  | string
-| language | Content Cell  | string
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
