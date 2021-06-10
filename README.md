@@ -21,9 +21,12 @@ This route Get all movies data on json format
        console.log(error)
       });
 ```
-# response JSON
+* response JSON
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Name |	Description |	Type
+------------ | ------------- | -------------
+Title | original tiltle  | string
+Genre | movie's genre  | string
+Premiere | first public presentation | string
+Runtime | movie's long | string
+Language | movie's original language | string
