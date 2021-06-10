@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+A RESTful API for Netflix movies
+======
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> An Open-source api built on NodeJs that lets you consume all netflix movies data
+> <br />
+> https://api-netflix.herokuapp.com/
 
-## Available Scripts
+## Information
+This is a consumption-only API — only the HTTP GET method is available on resources.
+No authentication is required to access this API, and all resources are fully open and available.
 
-In the project directory, you can run:
+* Resource List
 
-### `yarn start`
+Name |	Description |	Type
+------------ | ------------- | -------------
+Title | original tiltle  | string
+Genre | movie's genre  | string
+Premiere | first public presentation | string
+Runtime | movie's long | string
+Language | movie's original language | string
+Poster | movie's poster | url
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### /movies (endpoint)
+This route Get all movies data on json format
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```javascript
+ axios
+      .get(https://api-netflix.herokuapp.com/api/v2/movies)
+      .then(function (result) {
+       console.log(result.data)
+      })
+      .catch(function (error) {
+       console.log(error)
+      });
+```
 
-### `yarn test`
+### /movies/year (endpoint)
+This route Get movies by year from 2015 to 2021
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```javascript
+ axios
+      .get(https://api-netflix.herokuapp.com/api/v2/movies/2021)
+      .then(function (result) {
+       console.log(result.data)
+      })
+      .catch(function (error) {
+       console.log(error)
+      });
+```
 
-### `yarn build`
+### /movies/year?genre=
+you can get also movies by genre 
+  * Drama
+  * Horror
+  * Adventure
+  * thriller...
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```javascript
+ axios
+      .get(https://api-netflix.herokuapp.com/api/v2/movies?genre=drama)
+      .then(function (result) {
+      //you get all movies with genre "drama"
+       console.log(result.data)
+      })
+      .catch(function (error) {
+       console.log(error)
+      });
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### /movies/year?language=
+you can get also movies by original language 
+  * English
+  * Korean
+  * Spanish
+  * Hindi...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```javascript
+ axios
+      .get(https://api-netflix.herokuapp.com/api/v2/movies?language=english)
+      .then(function (result) {
+      //you get all english movies
+       console.log(result.data)
+      })
+      .catch(function (error) {
+       console.log(error)
+      });
+```
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
